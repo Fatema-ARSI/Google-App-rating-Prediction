@@ -37,6 +37,8 @@ Did Sanity checks:
 + Outliers treatment
 
 ## EDA:
+<img src='download(1).jpg' width='300' height='300'><img src='download.jpg' width='300' height='300'>
+
 
 ## Model Building:
 
@@ -46,7 +48,9 @@ Did Sanity checks:
 
 I chose 2 most common models i.e Linear  and Randome Forest Regressor and ran 4 regressions for each model used as we consider one-hot vs integer encoded results for the category section,as well as including/excluding the genres section.
 
-##Model Performance:
+## Model Performance:
+
+<img src='googleproject.jpg' width='500' height='500'>
 
 
 
