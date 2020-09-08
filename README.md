@@ -1,6 +1,6 @@
 # Google-App-rating-Prediction
 ## Project Overview:
-- Created a model to predict the app rating(score),which are provided by the customers, with other information about the app provided.
+- Created a model to predict the app rating,which are provided by the customers, with other information about the app provided.
 - Featured engineering methods such as one hot encoding to get better predictive accuracy and integer encoding to understand relationship between each category.
 - Optimised Linear and Random Forest Regressors to reach the best model.
 
@@ -38,7 +38,6 @@ Did Sanity checks:
 
 ## EDA:
 
-<img src='download (1).png' width='300' height='300'><img src='download.png' width='300' height='300'>
 
 ## Model Building:
 
@@ -50,7 +49,10 @@ I chose 2 most common models i.e Linear  and Randome Forest Regressor and ran 4 
 
 ## Model Performance:
 
+Overall performance of both the model:
+
 <img src='googleproject.jpg' width='500' height='500'>
+
 
 
 
