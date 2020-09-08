@@ -38,6 +38,15 @@ Did Sanity checks:
 
 ## EDA:
 
+Correlation between variables
+
+<img src='download (1).png' width='300' height='300'>
+
+Reviews affecting the Rating of Apps
+
+<img src='download.png' width='300' height='300'>
+
+
 
 ## Model Building:
 
