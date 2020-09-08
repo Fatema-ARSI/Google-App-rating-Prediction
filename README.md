@@ -37,7 +37,6 @@ Did Sanity checks:
 + Outliers treatment
 
 ## EDA:
-<img src='download(1).jpg' width='300' height='300'><img src='download.jpg' width='300' height='300'>
 
 
 ## Model Building:
